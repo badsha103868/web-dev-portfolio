@@ -183,3 +183,7 @@ border: none;
 .dream{
   justify-content: space-between;
 }
+.badsha{
+  justify-content: center;
+  font-size: 1.25em;
+}
